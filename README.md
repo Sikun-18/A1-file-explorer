@@ -23,12 +23,12 @@ Features
 
 
 Step 1 — Install Build Tools
-bash
+```bash
 sudo apt update
 sudo apt install -y g++ build-essential
 
 Step 2 — Compile
-bash
+```bash
 g++ -std=gnu++17 main.cpp -o filex
 
 
