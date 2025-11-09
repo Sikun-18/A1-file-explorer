@@ -1,7 +1,6 @@
 # **Simple File Explorer in C++ (Linux / WSL)**
 
 **Student Name:** Srikrushna Mishra
-
 **Registration Number:** 2241013183 
 
 This project is a **command-line-based File Explorer** implemented in **C++** using the `<filesystem>` library.  
