@@ -31,3 +31,14 @@ It allows users to manage files and directories through simple terminal commands
 ```bash
 sudo apt update
 sudo apt install -y g++ build-essential
+```
+
+### **Step 2 — Compile**
+```bash
+g++ -std=gnu++17 main.cpp -o filex
+```
+
+Step 3 — Run
+```bash
+./filex
+```
