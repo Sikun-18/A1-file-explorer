@@ -1,7 +1,7 @@
 # **Simple File Explorer in C++ (Linux / WSL)**
 
-**Student Name:** Prem Sagar Padhy  
-**Registration Number:** 2241016021  
+**Student Name:** Srikrushna Mishra
+**Registration Number:** 2241013183 
 
 This project is a **command-line-based File Explorer** implemented in **C++** using the `<filesystem>` library.  
 It allows users to manage files and directories through simple terminal commands such as listing, creating, deleting, copying, moving, searching, and changing file permissions.
