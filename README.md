@@ -18,3 +18,20 @@ Features
 | `search <filename>`    | Search recursively by filename               | `search hello.txt`    |
 | `chmod <file> <octal>` | Change permissions                           | `chmod hello.txt 644` |
 | `exit`                 | Quit the program                             | `exit`                |
+
+## How to Compile & Run (WSL / Ubuntu)
+
+
+Step 1 — Install Build Tools
+bash
+sudo apt update
+sudo apt install -y g++ build-essential
+
+Step 2 — Compile
+bash
+g++ -std=gnu++17 main.cpp -o filex
+
+
+Step 3 — Run
+```bash
+./filex
